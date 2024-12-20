@@ -12,6 +12,6 @@
         "dest": "app.py"
       }
     ],
-    "buildCommand": "pip install -r requirements.txt && python preprocess.py"
+    "buildCommand": "pip install -r requirements.txt"
   }
   
